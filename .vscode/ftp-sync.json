@@ -1,0 +1,22 @@
+{
+    "remotePath": "./gocode",
+    "host": "192.168.56.102",
+    "username": "hsukk",
+    "password": "redhat",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ]
+}
+
+
+
